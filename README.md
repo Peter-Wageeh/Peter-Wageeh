@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peter-Wageeh
+- 👋 Hi, I’m @Peter-Wageeh (aeronautical engineer "Cairo University")
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning javascript, html & css
 - 💞️ I’m looking to collaborate on front end projects 
