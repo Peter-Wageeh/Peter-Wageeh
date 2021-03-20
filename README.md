@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, html & css
 - 💞️ I’m looking to collaborate on front end projects 
 - 📫 How to reach me ...
-Email:
+Gmail:
 Peterwageeh413@gmail.com 
 
 <!---
